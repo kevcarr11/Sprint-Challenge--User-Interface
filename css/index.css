@@ -268,3 +268,23 @@ footer nav a {
 
 }
 
+.About {
+    padding-bottom: 10px;
+    border-bottom: 1px dotted;
+
+}
+.Middlecontainer {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+   height: 75%;
+   width: 75%;
+
+   
+}
+
+.Strategy.RightTopImg.LeftBottom.RightBottom {
+    display: flex;
+    flex-flow: row wrap;
+
+}
