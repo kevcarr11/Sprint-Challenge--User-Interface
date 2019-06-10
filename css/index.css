@@ -277,14 +277,40 @@ footer nav a {
    display: flex;
    flex-flow: row wrap;
    justify-content: space-between;
-   height: 75%;
-   width: 75%;
-
+   width: 100%;
+   margin-top: 10px;
    
 }
 
-.Strategy.RightTopImg.LeftBottom.RightBottom {
-    display: flex;
-    flex-flow: row wrap;
+.strategy {
+    width: 45%;
+    margin: 10px 10px 10px 0px;
+    border-bottom: 1px dotted;
 
+}
+
+.howWeWork {
+    width: 45%;
+    margin: 10px 10px 10px 0px;
+    border-bottom: 1px dotted;
+}
+
+.placesWeWork {
+    width: 45%;
+    margin: 10px 10px 10px 0px;
+    border-bottom: 1px dotted;
+}
+
+.collaboration {
+    width: 45%;
+    margin: 10px 10px 10px 0px;
+    border-bottom: 1px dotted;
+}
+
+.BottomSection {
+    margin: 20px 0px 0px 20px;
+}
+
+footer {
+    margin-top: 20px;
 }
