@@ -144,3 +144,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.topNavagation {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 60%;
+    padding: 20px 2%;
+    margin-left: 20%;
+}
+
+.topNavagation a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.header{
+    justify-content: center;
+}
+
+.TopImgSection {
+    display: flex;
+    justify-content: center;
+
+}
